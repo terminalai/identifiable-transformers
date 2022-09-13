@@ -8,6 +8,7 @@ from typing import Optional, Tuple
 
 import math
 
+
 Tensor = torch.Tensor
 
 def multi_head_attention_forward(query: Tensor,

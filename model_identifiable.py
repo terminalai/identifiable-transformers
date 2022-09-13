@@ -9,6 +9,7 @@ import multi_head_attention as M
 
 from typing import Optional
 
+
 '''
 define model
 '''
